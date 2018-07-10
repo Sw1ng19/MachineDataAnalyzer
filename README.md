@@ -1,0 +1,2 @@
+# MachineDataAnalyzer
+跟我一起从零开始实现一个简易的大数据日志搜索分析器
